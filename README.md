@@ -69,8 +69,8 @@ extractors followed by different classifiers for the classification of abnormal 
 
 
 
-**ALGORITHM USED
- CONVOLUTIONAL NEURAL NETWORK(CNN):**
+**ALGORITHM USED**
+ **CONVOLUTIONAL NEURAL NETWORK(CNN):**
  A convolutional neural network (CNN or ConvNet) is a network architecture for deep learningthat learns
  directly from data. CNNs are particularly useful for finding patterns in images to recognize objects, classes,
  and categories. A convolutional neural network can have tens or hundreds of layers that each learn to detect

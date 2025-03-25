@@ -88,6 +88,7 @@ linearity to a deep learning model and solves the vanishing gradients issue. It 
 
 
 **IMPLEMENTATION STEPS:**
+
  **1. PREPROCESSING:**
  • First load images from a directory structure where each subdirectory represents a different class, and
  the images are stored within these subdirectories.
